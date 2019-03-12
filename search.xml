@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2019%2F03%2F13%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[网站推荐]]></title>
+    <url>%2F2018%2F11%2F22%2F%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90%2F</url>
+    <content type="text"><![CDATA[网站推荐 搜索 英文电子书 Library Genesis 中文电子书 鸠摩搜书]]></content>
+      <categories>
+        <category>工具</category>
+        <category>网站</category>
+      </categories>
+      <tags>
+        <tag>工具 网站推荐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[个人知识管理]]></title>
+    <url>%2F2018%2F11%2F22%2F%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86%2F</url>
+    <content type="text"><![CDATA[基于Markdown的云端笔记米尔斯《社会学的想象力》附录《治学之道》本地编辑器选择VScode选择坚果云作为同步网盘。实现自动本地编辑和云端存储备份，坚果云对于Web编辑的支持也十分不错,可以直接利用坚果云Web端写作。关于Markdown图片存储选择极简图床上传工具+阿里云对象存储）OSS服务。使用讯飞语记作为语音输入工具，白描OCR输入工具。关于Markdown的输出，利用浏览器（chrome）的打印功能即可。 一个松散开放的系统要比一个内聚集成的系统更容易演化。将个人文档数据存储在坚果云等专业存储网站要比存储在印象笔记数据库更加安全。另外很重要的一点是可以更方便的管理迁移。而笔记提供方一定是不断试图提高迁移成本，长期使用一个笔记的迁移成本会不断增长，笔记的“可流动性”也是需要考虑的重要维度。 文献管理与云端存储可以利用Zotero做文献管理和知识管理。 Zotero 5.0使用教程/坚果云同步盘和Zotero的配置过程详解]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>工具 知识管理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[对话与自白]]></title>
+    <url>%2F2018%2F11%2F21%2F%E5%AF%B9%E8%AF%9D%E4%B8%8E%E8%87%AA%E7%99%BD%2F</url>
+    <content type="text"><![CDATA[景德传灯录言：末将时光等闲空过，一失人身，万劫不复，不是小事。诸葛亮《戒子书》：淫慢则不能励精，险躁则不能治性。年与时驰，意与日去，遂成枯落，多不接世，悲守穷庐，将复何及！思及近日所为，万分惭愧。险躁散乱，所学甚少。 “人身难得”，有此生甚不容易，应该好好珍惜。还是要让自己心静下来。把注意力收回来，自己想学什么就应该好好学，下功夫学，不应该把把注意力在考试和工作上。急功近利，无法酝酿“Great Idea”，也很难创造高价值的商品和服务。 “以前种种，譬如昨日死；以后种种，譬如今日生。”把握好当下，让未来不犯过去的错误。为何自己内心无法自在解脱呢？应该把烦恼抛掉开的！自己还有更重要的事，希望研究生考试之前把《Money and Government》读完，把线性代数和概率论再学习的扎实一些。心烦的时候就学学R语言，不应该再浪费时间。应该把心中的烦恼抛掉的，只要自己每天“从容挺然”，有些思考感悟，这一天就不是浪费的。要努力让自己静下来。接受淡泊的生活，做一些真正重要的事。 学数学、学统计、学编程。并非兴趣杂乱，因为想解决的问题需要这些工具。世界这么大，问题这么多，总有一些我能解决的问题，自己总能做点事情的。即使没事可做，衣食无忧，为何不好好学自己感兴趣的东西呢？ 自我疏导，希望自己心念慢慢转变过来，安心学一些东西。]]></content>
+      <categories>
+        <category>浮生锁记</category>
+      </categories>
+      <tags>
+        <tag>感悟</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[博客搭建与写作]]></title>
+    <url>%2F2018%2F11%2F18%2F%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B%2F</url>
+    <content type="text"><![CDATA[博客搭建 hexo教程：github page+独立域名搭建(1) Bilibili:手把手教你搭建属于自己的hexo+github博客 写作语法 Markdown语法]]></content>
+      <tags>
+        <tag>博客</tag>
+      </tags>
+  </entry>
+</search>
