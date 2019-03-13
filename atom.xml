@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>酸碱</title>
+  <title>算家</title>
   <icon>https://www.gravatar.com/avatar/453e8be73a1bc819c9c425adcdf31bfa</icon>
   <subtitle>计天地之数，析万物之理</subtitle>
   <link href="/atom.xml" rel="self"/>
