@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jiweiyuan.github.io/tags/index.html</loc>
+    
+    <lastmod>2019-03-13T01:48:41.782Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jiweiyuan.github.io/2018/11/22/%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/</loc>
+    
+    <lastmod>2019-03-13T01:47:18.226Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jiweiyuan.github.io/2019/03/13/demo/</loc>
     
     <lastmod>2019-03-12T19:40:20.089Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>https://jiweiyuan.github.io/2018/11/22/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/</loc>
     
     <lastmod>2018-11-22T10:40:32.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jiweiyuan.github.io/2018/11/22/%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/</loc>
-    
-    <lastmod>2018-11-22T10:39:28.000Z</lastmod>
     
   </url>
   
@@ -47,13 +54,6 @@
     <loc>https://jiweiyuan.github.io/categories/index.html</loc>
     
     <lastmod>2018-11-18T12:11:14.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://jiweiyuan.github.io/tags/index.html</loc>
-    
-    <lastmod>2018-11-18T12:11:04.000Z</lastmod>
     
   </url>
   

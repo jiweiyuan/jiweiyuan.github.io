@@ -52,4 +52,19 @@
         <tag>博客</tag>
       </tags>
   </entry>
+  <entry>
+    <title><![CDATA[categories]]></title>
+    <url>%2Fcategories%2Findex.html</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[JiweiYuan]]></title>
+    <url>%2Fabout%2Findex.html</url>
+    <content type="text"><![CDATA[Why I want to build a Blog:Frist: Build a platform to communicate and output.Second: Record my observations and thinkings towards life, my journey on this uncertainty and complex world, my exploring to the discipline of Statistics, Economics and Complex Science.Last but not least: Build a window so let those who concern me know what I am doing and what I thinking. I have considered many different ways to achieve this purposes .for example, QQzone, Wechat, Zhihuzhuanlan, Jianshu, Wordpress +Aliyun, Eventually, Web Blog based on “Github Pages +Hexo” become my present choose, this is a suitable way for me to do these matters mentioned above! Why I want to learn Data Science :I want to create Goods and Servers for this society directly or indirectly. I want to be a professional producer of ideas, but find this difficult for me, maybe I have not enough courage and wisdom to deal with pressure from inner conflict now, which will stifle my creativity severely. Maybe I should learn technical and methodological knowledge in youth. Data Science in line with my taste of intellectual pursuit —— Discovering law of thing and modeling.Industry and technology based on Computer, which maybe have the most rapid development speed and the highest metabolism vitality in this era. Maybe I should try Data Science! Why I choose English to write sometimes:Languages are carriers and manifestation of Ideas. Logical thinking usually relies on a particular logical symbol system. When my learning resources mostly are English materials, I choose English to record my thinking and feeling, because I need a way to output so that to improve my overall ability-Listening, Speaking, Reading and Writing. An effective way of learning something is “learning by doing”, What I am doing is learning Statistics、Programming、Economics and Complex Sciences. Therefore, writing is maybe a suitable way for me to learn the use of English. Learning English by using it rather than preparing for testing. My writing ability looks better than my oral ability. I hope I can stick to it and make progress continuously! Other information about me:E-mail:ji-weiyuan@outlook.com知乎：https://www.zhihu.com/people/jiweiyuan/activities网易云：https://music.163.com/#/user/home?id=261939684]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[tags]]></title>
+    <url>%2Ftags%2Findex.html</url>
+    <content type="text"></content>
+  </entry>
 </search>
