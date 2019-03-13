@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>算家</title>
-  
-  <subtitle>An Exploring to Artificial Intelligence.</subtitle>
+  <title>酸碱</title>
+  <icon>https://www.gravatar.com/avatar/453e8be73a1bc819c9c425adcdf31bfa</icon>
+  <subtitle>计天地之数，析万物之理</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jiweiyuan.github.io/"/>
@@ -10,8 +10,8 @@
   <id>https://jiweiyuan.github.io/</id>
   
   <author>
-    <name>JiweiYuan</name>
-    
+    <name>Jiwei,Yuan</name>
+    <email>ji-weiyuan@outlook.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
