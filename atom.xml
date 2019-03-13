@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Jiwei,Yuan</title>
   <icon>https://www.gravatar.com/avatar/453e8be73a1bc819c9c425adcdf31bfa</icon>
-  <subtitle>Welcome to My Blog Website!</subtitle>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jiweiyuan.github.io/"/>
