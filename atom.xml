@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jiweiyuan.github.io/"/>
-  <updated>2018-11-22T10:40:32.000Z</updated>
+  <updated>2019-09-29T00:44:33.496Z</updated>
   <id>https://jiweiyuan.github.io/</id>
   
   <author>
@@ -15,60 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>网站推荐</title>
-    <link href="https://jiweiyuan.github.io/2018/11/22/%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/"/>
-    <id>https://jiweiyuan.github.io/2018/11/22/网站推荐/</id>
-    <published>2018-11-22T10:38:35.000Z</published>
-    <updated>2018-11-22T10:40:32.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>网站推荐</p><h1 id="搜索"><a href="#搜索" class="headerlink" title="搜索"></a>搜索</h1><ul><li>英文电子书 <a href="http://gen.lib.rus.ec/" target="_blank" rel="noopener">Library Genesis</a> </li><li>中文电子书 <a href="https://www.jiumodiary.com/" target="_blank" rel="noopener">鸠摩搜书</a></li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;网站推荐&lt;/p&gt;
-&lt;h1 id=&quot;搜索&quot;&gt;&lt;a href=&quot;#搜索&quot; class=&quot;headerlink&quot; title=&quot;搜索&quot;&gt;&lt;/a&gt;搜索&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;英文电子书 &lt;a href=&quot;http://gen.lib.rus.ec/&quot; target=&quot;_blan
-      
-    
-    </summary>
-    
-      <category term="工具" scheme="https://jiweiyuan.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
-    
-      <category term="网站" scheme="https://jiweiyuan.github.io/categories/%E5%B7%A5%E5%85%B7/%E7%BD%91%E7%AB%99/"/>
-    
-    
-      <category term="工具 网站推荐" scheme="https://jiweiyuan.github.io/tags/%E5%B7%A5%E5%85%B7-%E7%BD%91%E7%AB%99%E6%8E%A8%E8%8D%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>个人知识管理</title>
-    <link href="https://jiweiyuan.github.io/2018/11/22/%E4%B8%AA%E4%BA%BA%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
-    <id>https://jiweiyuan.github.io/2018/11/22/个人知识管理/</id>
-    <published>2018-11-22T10:38:11.000Z</published>
-    <updated>2019-03-13T01:47:18.226Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="基于Markdown的云端笔记"><a href="#基于Markdown的云端笔记" class="headerlink" title="基于Markdown的云端笔记"></a>基于Markdown的云端笔记</h2><p>米尔斯《社会学的想象力》附录《治学之道》<br>本地编辑器选择<a href="https://code.visualstudio.com/" target="_blank" rel="noopener">VScode</a><br>选择<a href="https://www.jianguoyun.com/" target="_blank" rel="noopener">坚果云</a>作为同步网盘。实现自动本地编辑和云端存储备份，坚果云对于Web编辑的支持也十分不错,可以直接利用坚果云Web端写作。<br>关于Markdown图片存储<br>选择<a href="http://jiantuku.com" target="_blank" rel="noopener">极简图床</a>上传工具+阿里云对象存储）OSS服务。<br>使用讯飞语记作为语音输入工具，白描OCR输入工具。<br>关于Markdown的输出，利用浏览器（chrome）的打印功能即可。</p><p>一个松散开放的系统要比一个内聚集成的系统更容易演化。将个人文档数据存储在坚果云等专业存储网站要比存储在印象笔记数据库更加安全。另外很重要的一点是可以更方便的管理迁移。而笔记提供方一定是不断试图提高迁移成本，长期使用一个笔记的迁移成本会不断增长，笔记的“可流动性”也是需要考虑的重要维度。</p><h2 id="文献管理与云端存储"><a href="#文献管理与云端存储" class="headerlink" title="文献管理与云端存储"></a>文献管理与云端存储</h2><p>可以利用Zotero做文献管理和知识管理。</p><p><a href="https://zhuanlan.zhihu.com/p/28325366" target="_blank" rel="noopener">Zotero 5.0使用教程/坚果云同步盘和Zotero的配置过程详解</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;基于Markdown的云端笔记&quot;&gt;&lt;a href=&quot;#基于Markdown的云端笔记&quot; class=&quot;headerlink&quot; title=&quot;基于Markdown的云端笔记&quot;&gt;&lt;/a&gt;基于Markdown的云端笔记&lt;/h2&gt;&lt;p&gt;米尔斯《社会学的想象力》附录《治学之
-      
-    
-    </summary>
-    
-      <category term="工具" scheme="https://jiweiyuan.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
-    
-    
-      <category term="工具 知识管理" scheme="https://jiweiyuan.github.io/tags/%E5%B7%A5%E5%85%B7-%E7%9F%A5%E8%AF%86%E7%AE%A1%E7%90%86/"/>
-    
-  </entry>
   
   <entry>
     <title>对话与自白</title>
