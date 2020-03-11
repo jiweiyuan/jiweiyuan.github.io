@@ -1,37 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[对话与自白]]></title>
-    <url>%2F2018%2F11%2F21%2F%E5%AF%B9%E8%AF%9D%E4%B8%8E%E8%87%AA%E7%99%BD%2F</url>
-    <content type="text"><![CDATA[景德传灯录言：末将时光等闲空过，一失人身，万劫不复，不是小事。诸葛亮《戒子书》：淫慢则不能励精，险躁则不能治性。年与时驰，意与日去，遂成枯落，多不接世，悲守穷庐，将复何及！思及近日所为，万分惭愧。险躁散乱，所学甚少。 “人身难得”，有此生甚不容易，应该好好珍惜。还是要让自己心静下来。把注意力收回来，自己想学什么就应该好好学，下功夫学，不应该把把注意力在考试和工作上。急功近利，无法酝酿“Great Idea”，也很难创造高价值的商品和服务。 “以前种种，譬如昨日死；以后种种，譬如今日生。”把握好当下，让未来不犯过去的错误。为何自己内心无法自在解脱呢？应该把烦恼抛掉开的！自己还有更重要的事，希望研究生考试之前把《Money and Government》读完，把线性代数和概率论再学习的扎实一些。心烦的时候就学学R语言，不应该再浪费时间。应该把心中的烦恼抛掉的，只要自己每天“从容挺然”，有些思考感悟，这一天就不是浪费的。要努力让自己静下来。接受淡泊的生活，做一些真正重要的事。 学数学、学统计、学编程。并非兴趣杂乱，因为想解决的问题需要这些工具。世界这么大，问题这么多，总有一些我能解决的问题，自己总能做点事情的。即使没事可做，衣食无忧，为何不好好学自己感兴趣的东西呢？ 自我疏导，希望自己心念慢慢转变过来，安心学一些东西。 —记于2018年11月21日]]></content>
-      <categories>
-        <category>浮生锁记</category>
-      </categories>
-      <tags>
-        <tag>感悟</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[博客搭建与写作]]></title>
-    <url>%2F2018%2F11%2F18%2F%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B%2F</url>
-    <content type="text"><![CDATA[博客搭建 hexo教程：github page+独立域名搭建(1) Bilibili:手把手教你搭建属于自己的hexo+github博客 写作语法 Markdown语法]]></content>
-      <tags>
-        <tag>博客</tag>
-      </tags>
+    <title><![CDATA[我的博客]]></title>
+    <url>%2F2020%2F03%2F11%2Fmyblog%2F</url>
+    <content type="text"><![CDATA[我的博客： https://github.com/jiweiyuan/blog/]]></content>
   </entry>
   <entry>
     <title><![CDATA[关于我]]></title>
     <url>%2Fabout%2Findex.html</url>
-    <content type="text"><![CDATA[一些基本信息山东菏泽成武县人，毕业于山东大学，本科学习生物学。目前在集智学园 https://campus.swarma.org 担任课程助教，负责一些课程项目的拍摄制作项目。目前在学习Web全栈开发，努力成为一名开发者中… 正在做的事情From : 2019-09-20 学习 https://fullstackopen/en 全栈开发 如果对我现在做的事情感兴趣，欢迎联系交流。 一些联系方式微信公众号：袁继伟E-mail: ji-weiyuan@outlook.com知乎：https://www.zhihu.com/people/jiweiyuan/activities语雀： https://yuque.com/yuanjiwei/Github: https://github.com/jiweiyuan/]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[categories]]></title>
-    <url>%2Fcategories%2Findex.html</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[一些基本信息山东菏泽成武县人，毕业于山东大学，本科学习生物学。目前在集智学园 https://campus.swarma.org 担任课程助教，负责一些课程项目的拍摄制作项目。目前在学习Web全栈开发，努力成为一名开发者中… 正在做的事情From : 2019-09-20 学习 https://fullstackopen/en 全栈开发 如果对我现在做的事情感兴趣，欢迎联系交流。 一些联系方式微信公众号：袁继伟个人微信： ji-weiyuanE-mail: ji-weiyuan@outlook.com知乎：https://www.zhihu.com/people/jiweiyuan/activities语雀： https://yuque.com/yuanjiwei/Github: https://github.com/jiweiyuan/Bilibili: https://space.bilibili.com/260149501]]></content>
   </entry>
   <entry>
     <title><![CDATA[tags]]></title>
     <url>%2Ftags%2Findex.html</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[categories]]></title>
+    <url>%2Fcategories%2Findex.html</url>
     <content type="text"></content>
   </entry>
 </search>
