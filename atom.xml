@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Jiwei,Yuan</title>
+  <title>袁继伟</title>
   <icon>https://www.gravatar.com/avatar/453e8be73a1bc819c9c425adcdf31bfa</icon>
-  
+  <subtitle>Weaving the Web</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://jiweiyuan.github.io/"/>
+  <link href="https://www.yuanjiwei.com/"/>
   <updated>2020-03-11T05:43:12.098Z</updated>
-  <id>https://jiweiyuan.github.io/</id>
+  <id>https://www.yuanjiwei.com/</id>
   
   <author>
     <name>Jiwei,Yuan</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的博客</title>
-    <link href="https://jiweiyuan.github.io/2020/03/11/myblog/"/>
-    <id>https://jiweiyuan.github.io/2020/03/11/myblog/</id>
+    <link href="https://www.yuanjiwei.com/2020/03/11/myblog/"/>
+    <id>https://www.yuanjiwei.com/2020/03/11/myblog/</id>
     <published>2020-03-11T05:41:37.000Z</published>
     <updated>2020-03-11T05:43:12.098Z</updated>
     
