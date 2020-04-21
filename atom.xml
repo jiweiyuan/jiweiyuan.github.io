@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jiweiyuan.github.io/"/>
-  <updated>2020-03-29T10:13:44.980Z</updated>
+  <updated>2020-04-21T02:38:09.229Z</updated>
   <id>https://jiweiyuan.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2020年前端技术书评</title>
+    <link href="https://jiweiyuan.github.io/2020/04/21/2020frontendbook/"/>
+    <id>https://jiweiyuan.github.io/2020/04/21/2020frontendbook/</id>
+    <published>2020-04-21T02:36:46.000Z</published>
+    <updated>2020-04-21T02:38:09.229Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="2020年前端技术书评"><a href="#2020年前端技术书评" class="headerlink" title="2020年前端技术书评"></a>2020年前端技术书评</h2><p>想系统的掌握一门知识，书籍是比较好的方式。我是比较喜欢看书的，当然，看了书也要多动手实践。记录在2020年研读过的前端技术书籍，日常更新….</p><ol><li><p>刘博文《深入浅出Vue.js》2019.3</p><p>书如其名，深入浅出。现在想找一份前端的工作（15k 以上），面试都会问一些源码的实现，所以读一读这本是还是收获很大的。借助书籍，比直接上手读源码要方便许多。</p></li></ol><ol start="2"><li><p>周俊鹏 《前端技术架构和工程》电子工业出版社 2020.01</p><p>2020年1月出版的书，我四月份买来读的。疫情期间毕竟图书出版行业也会受到一些影响，读这么新鲜的书还是挺开心的。这本书适合刚从事前端的同学读一读，因为内容并不是很深。但如果接触前端不久，倒是可以读一读。但工程化的知识最好在工程的实践中学习，如果没有业务和研究需要，泛读一下即可。我重点看了看第5章前后端分离和第6章性能。</p></li></ol><ol start="3"><li><p>居玉皓《Webpack实践入门、进阶、和调优》机械工业出版社 2019.5</p><p>朋友推荐的，之前工作用webpack, 文档并不是那么友好，一些概念也没有掌握太清楚。这本书，设置了很好的学习梯度、循序渐进，把一些晦涩的概念也解释的很清楚，难得的一本好书。</p></li></ol><ol start="4"><li></li></ol><p>更新于：2020.04.21</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;2020年前端技术书评&quot;&gt;&lt;a href=&quot;#2020年前端技术书评&quot; class=&quot;headerlink&quot; title=&quot;2020年前端技术书评&quot;&gt;&lt;/a&gt;2020年前端技术书评&lt;/h2&gt;&lt;p&gt;想系统的掌握一门知识，书籍是比较好的方式。我是比较喜欢看书的，当然，
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>翻译:Javascript 的构造</title>
